@@ -15,14 +15,14 @@ The homework uses the following technologies:
 
 ## Imports
 
-![Alt text](Images/cap%201.JPG)
+![image](https://github.com/victoriant/credit-risk-classification/assets/119895467/95c7a149-cb6a-4f0f-87b9-4b81b88d7450)
 
 
 ## Data Preparation
 
-![Alt text](Images/cap%202.JPG)
+![image](https://github.com/victoriant/credit-risk-classification/assets/119895467/66179a63-0674-4b9f-bace-9bf54313d803)
 
 
 ## Results
 
-![Alt text](Images/cap%203.JPG)
+![image](https://github.com/victoriant/credit-risk-classification/assets/119895467/b96d98a3-13d8-4893-a432-461b3af8afaa)
